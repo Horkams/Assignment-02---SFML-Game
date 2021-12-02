@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(59,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(81,59): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(135,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(146,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(146,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(154,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\main.cpp(154,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 74 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignment 02 - SFML Game.vcxproj -> C:\Users\Emmet\Desktop\Assignment 02 - SFML Game\x64\Release\Assignment 02 - SFML Game.exe
