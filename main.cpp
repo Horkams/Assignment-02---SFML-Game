@@ -15,6 +15,7 @@
 #include <Windows.h>
 #include <SFML/Audio.hpp>
 #include <mmsystem.h>
+#include <fstream>
 #pragma comment(lib, "winmm.lib") // Link to the winmm library
 
 
@@ -77,9 +78,9 @@ int main()
 	if (!font.loadFromFile("Include/SFML/Fonts/Mermaid1001.ttf"))
 		return EXIT_FAILURE;
 
-sf:SoundBuffer backgroundMusic;
-	if (!backgroundMusic.loadFromFile("E:/Uni Work/Object Orientated Programming/Assignment 02 - SFML Game/media"))
-	return -1;
+
+	
+	
 
 	Sprite s(t1), background(t2), frame(t3), gameOver(t4);
 
@@ -94,7 +95,6 @@ sf:SoundBuffer backgroundMusic;
 	{
 		while (window.isOpen())
 		{
-			backgroundMusic.play();
 
 				float time = clock1.getElapsedTime().asSeconds();
 				clock1.restart();
